@@ -1,16 +1,15 @@
-### Hi there 👋
+# &#128104;&#8205;&#128187; Hi, I'm Roman 
 
-<!--
-**romanmajorov/romanmajorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&#127760; I am from Russia, I am 21 years old. I have recently started to get involved in IT, namely web-dev &#10024;
 
-Here are some ideas to get you started:
+## &#128188; My skills:
+- HTML/CSS
+- JS
+- PHP
+- NodeJS
+- Redis
+- jQuery
+- JSON/MongoDB/MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## &#128241; Contact with me:
+- <a href="https://t.me/ell215">push</a> &#9989;
