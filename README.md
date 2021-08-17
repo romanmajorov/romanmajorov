@@ -4,11 +4,10 @@
 
 ## &#128188; My skills:
 - HTML/CSS
-- JS
+- JS (jQuery/NodeJS)
 - PHP
-- NodeJS
+- Python
 - Redis
-- jQuery
 - JSON/MongoDB/MySQL
 
 ## &#128241; Contact with me:
