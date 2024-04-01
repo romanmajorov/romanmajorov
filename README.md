@@ -1,6 +1,6 @@
 # &#128104;&#8205;&#128187; Hi, I'm Roman 
 
-&#127760; I am from Russia, I am 16 years old. I have recently started to get involved in IT, namely web-dev &#10024;
+&#127760; I am from Russia, I am 18 years old. I have recently started to get involved in IT, namely web-dev &#10024;
 
 ## &#128188; My skills:
 - HTML/CSS
